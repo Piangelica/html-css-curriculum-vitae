@@ -1,5 +1,49 @@
-#test
-{
-    color:blueviolet;
-} 
+h1 {
+    text-align: center;
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+  } 
 
+.primotitolo,.sectitolo,.terzotitolo
+{
+    color: rgb(218, 187, 49);
+    font-weight: bold;
+    text-align: justify;
+    font-size:17pt
+}
+.secparagrafo,.terzoparagrafo,.quartoparagrafo,.quintoparagrafo
+{
+    font-weight: bold;
+
+    font-style: oblique;
+
+  }
+  hr { color: rgb(226, 199, 47); background: rgb(223, 173, 37); border: 0; height: 1px; }
+  span
+  {
+    font-weight: bold;
+
+  }
+  footer
+  {
+    text-align: center;
+    font-size:small;
+  } 
+   .introduzione{
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;}
+
+  @media screen and (max-height: 800px);
+  {
+  @media screen and (max-width: 320px);
+  {
+  @media screen and (min-width: 321px) and (max-width: 481px);
+  {
+  @media screen and (min-width: 481px) and (max-width: 769px);
+  {
+  @media screen and (min-width: 769px) and (max-width: 1024px)
+ 
+
+ 
